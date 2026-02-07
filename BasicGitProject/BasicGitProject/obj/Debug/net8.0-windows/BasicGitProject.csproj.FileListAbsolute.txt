@@ -1,0 +1,16 @@
+G:\Revit Projects\BasicGitProject\BasicGitProject\bin\Debug\net8.0-windows\BasicGitProject.exe
+G:\Revit Projects\BasicGitProject\BasicGitProject\bin\Debug\net8.0-windows\BasicGitProject.deps.json
+G:\Revit Projects\BasicGitProject\BasicGitProject\bin\Debug\net8.0-windows\BasicGitProject.runtimeconfig.json
+G:\Revit Projects\BasicGitProject\BasicGitProject\bin\Debug\net8.0-windows\BasicGitProject.dll
+G:\Revit Projects\BasicGitProject\BasicGitProject\bin\Debug\net8.0-windows\BasicGitProject.pdb
+G:\Revit Projects\BasicGitProject\BasicGitProject\obj\Debug\net8.0-windows\BasicGitProject.Form1.resources
+G:\Revit Projects\BasicGitProject\BasicGitProject\obj\Debug\net8.0-windows\BasicGitProject.csproj.GenerateResource.cache
+G:\Revit Projects\BasicGitProject\BasicGitProject\obj\Debug\net8.0-windows\BasicGitProject.GeneratedMSBuildEditorConfig.editorconfig
+G:\Revit Projects\BasicGitProject\BasicGitProject\obj\Debug\net8.0-windows\BasicGitProject.AssemblyInfoInputs.cache
+G:\Revit Projects\BasicGitProject\BasicGitProject\obj\Debug\net8.0-windows\BasicGitProject.AssemblyInfo.cs
+G:\Revit Projects\BasicGitProject\BasicGitProject\obj\Debug\net8.0-windows\BasicGitProject.csproj.CoreCompileInputs.cache
+G:\Revit Projects\BasicGitProject\BasicGitProject\obj\Debug\net8.0-windows\BasicGitProject.dll
+G:\Revit Projects\BasicGitProject\BasicGitProject\obj\Debug\net8.0-windows\refint\BasicGitProject.dll
+G:\Revit Projects\BasicGitProject\BasicGitProject\obj\Debug\net8.0-windows\BasicGitProject.pdb
+G:\Revit Projects\BasicGitProject\BasicGitProject\obj\Debug\net8.0-windows\BasicGitProject.genruntimeconfig.cache
+G:\Revit Projects\BasicGitProject\BasicGitProject\obj\Debug\net8.0-windows\ref\BasicGitProject.dll

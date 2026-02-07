@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "BasicGitProject/1.0.0": {
+        "runtime": {
+          "BasicGitProject.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BasicGitProject/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
